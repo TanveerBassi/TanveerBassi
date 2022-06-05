@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **my portfolio to bring it up to scratch!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/13a551?tab=repositories](https://github.com/13a551?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/13a551?tab=repositories](https://github.com/13a551)
 
 - 📝 I regularly write articles on [on Linkedin and Github](on Linkedin and Github)
 
