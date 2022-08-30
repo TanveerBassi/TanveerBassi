@@ -12,13 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://tanveerbassi.github.io/react-portfolio/](https://tanveerbassi.github.io/react-portfolio/)
 
-- 💬 Ask me about **MERN, React**
-
 - 📫 How to reach me **tanveer13a551@gmail.com**
 
 - ⚡ Fun fact **you probably won't read this, lol.**
 
-- 📫 Feel free to download my CV. https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf
+- 💬 Feel free to download my CV. https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
