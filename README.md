@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **you probably won't read this, lol.**
 
-<h3> Feel free to download a copy of my CV - https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf</h3>
+- 📫 Feel free to download my CV. https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
