@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Tanveer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate React developer from the UK!</h3>
+<h3 align="center">A passionate Full Stack developer working at the BBC!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanveerbassi&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerbassi" /> </p>
