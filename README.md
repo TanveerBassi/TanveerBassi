@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://tanveerbassi.github.io/react-portfolio/](https://tanveerbassi.github.io/react-portfolio/)
 
