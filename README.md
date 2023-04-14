@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **tanveer13a551@gmail.com**
 
-- ⚡ Fun fact **you probably won't read this, lol.**
-
 - 💬 Feel free to download my CV. https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf
 
 
