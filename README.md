@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tanveer13a551@gmail.com**
 
-- 💬 Feel free to download my CV. https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf
+- 💬 Feel free to download my CV. [https://github.com/TanveerBassi/resume/raw/main/Resume_tb.pdf](https://github.com/TanveerBassi/Resume-2024/blob/main/2024%20CV.pdf)
 
 
 <div align="center">
